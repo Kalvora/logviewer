@@ -3,7 +3,7 @@
     <strong><i>A simple webserver to view your selfhosted modmail logs.</i></strong>
     <br />
     <br />
-    <a href="https://heroku.com/deploy?template=https://github.com/kyb3r/logviewer">
+    <a href="https://heroku.com/deploy?template=https://github.com/kalvora/logviewer">
       <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge" alt="Deploy to Heroku"/>
     </a>
     <a href="https://discord.gg/etJNHCQ">
